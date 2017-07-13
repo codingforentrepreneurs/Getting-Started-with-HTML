@@ -1,0 +1,57 @@
+/* CSS */
+
+body {
+    background-color: #ccc;
+    /*color: red;*/
+    /*text-align: center;*/
+}
+div {
+    background-color: #fff;
+}
+
+
+a {
+    color: red;
+}
+
+h1 {
+    color: #007cae;
+    font-weight: 200;
+    font-size: 50px;
+}
+
+/* CSS */
+/* 
+.<YOUR-CLASS-NAME> {
+    for classes
+}
+
+#<YOUR-ID-NAME> {
+    for ids
+}
+
+*/
+
+
+.nav-link {
+    color:#007cae;
+}
+
+.nav-link-contact {
+    /*color:purple;*/
+}
+
+#about-nav-link {
+    /*color: yellow;*/
+}
+
+
+.main-container {
+    width: 1180px;
+    min-height: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+

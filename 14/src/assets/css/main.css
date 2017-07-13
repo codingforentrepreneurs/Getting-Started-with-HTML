@@ -1,0 +1,111 @@
+/* CSS */
+
+body {
+    background-color: #ccc;
+    /*color: red;*/
+    /*text-align: center;*/
+}
+div {
+    background-color: #fff;
+}
+
+
+a {
+    color: red;
+}
+
+h1 {
+    color: #007cae;
+    font-weight: 200;
+    font-size: 50px;
+}
+
+/* CSS */
+/* 
+.<YOUR-CLASS-NAME> {
+    for classes
+}
+
+#<YOUR-ID-NAME> {
+    for ids
+}
+
+*/
+
+
+.nav-link {
+    color:#007cae;
+    text-decoration:none;
+}
+
+.nav-link:hover {
+    color: #ccc;
+    text-decoration:underline;
+}
+
+.nav-link-contact {
+    /*color:purple;*/
+}
+
+#about-nav-link {
+    /*color: yellow;*/
+}
+
+
+.main-container {
+    width: 1180px;
+    min-height: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.img-link-hover:hover {
+    opacity: 0.68;
+}
+/*a img:hover{
+    opacity: 0.68;
+}*/
+
+
+.table {
+    font-size: 20px;
+    width:600px;
+    margin:0 auto;
+    border-collapse: collapse;
+}
+.table .th-item {
+    border-bottom: 1px solid black;
+
+}
+.table tr {
+    margin-bottom: 30px;
+}
+
+.table th {
+    background-color: #4CAF50;
+    color: white;
+    border: 0px !important;
+}
+
+.table td {
+    padding: 10px 12px;
+    margin: 0 4px;
+    border-right: 1px #ccc solid;
+    border-left: 1px #ccc dashed;
+
+    /*padding: 2px 20px 10px 30px;*/
+    /*padding: top right bottom left;*/
+    /*margin: top right bottom left;*/
+}
+
+.table td:first-child{
+     background-color: #ccc;
+}
+
+
+
+
+
+
+
